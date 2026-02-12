@@ -1,2 +1,2 @@
 # API-Chat
-用API来调动AI
+安卓的API聊天软件
